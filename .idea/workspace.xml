@@ -5,255 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a9494f1-5728-4d83-85c9-b0965853325e" name="Changes" comment=":tada: first edition">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/24133fd5-066a-469e-8b8a-04c73f1fc58f/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/24133fd5-066a-469e-8b8a-04c73f1fc58f/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/24133fd5-066a-469e-8b8a-04c73f1fc58f/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2510feda-1982-4fb4-839b-2cfd7c274817/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2510feda-1982-4fb4-839b-2cfd7c274817/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2510feda-1982-4fb4-839b-2cfd7c274817/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2510feda-1982-4fb4-839b-2cfd7c274817/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server/src/main/java/pers/jd/EurekaServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-zuul/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-zuul/src/main/java/pers.jd/ZuulApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-zuul/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-zuul/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-zuul/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-zuul/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-zuul/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-zuul/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-commodity/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-commodity/src/main/java/FastCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-commodity/src/main/java/pers/jd/ErpCommodityApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-commodity/src/main/java/pers/jd/controller/CommodityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-commodity/src/main/java/pers/jd/entity/Commodity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-commodity/src/main/java/pers/jd/entity/ResultGetAllPaging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-commodity/src/main/java/pers/jd/entity/ResultSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-commodity/src/main/java/pers/jd/mapper/CommodityMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-commodity/src/main/java/pers/jd/mapper/CommodityMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-commodity/src/main/java/pers/jd/service/ICommodityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-commodity/src/main/java/pers/jd/service/impl/CommodityServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-commodity/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-commodity/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/FastCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/ErpFinancialApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/controller/FinancialController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/controller/TypeIoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/entity/Financial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/entity/ResultGetAllPaging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/entity/ResultSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/entity/TypeIo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/entity/vo/FinancialVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/feignService/FeignHrService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/feignService/dto/Commodity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/feignService/dto/Financial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/feignService/dto/StorageRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/feignService/dto/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/feignService/dto/Warehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/mapper/FinancialMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/mapper/FinancialMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/mapper/TypeIoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/mapper/TypeIoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/service/IFinancialService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/service/ITypeIoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/service/impl/FinancialServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/service/impl/TypeIoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-financial/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/FastCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/ErpHrApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/controller/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/controller/DepartmentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/controller/UserDetailController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/entity/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/entity/ResultGetAllPaging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/entity/ResultSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/entity/UserDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/entity/dto/LoginDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/entity/vo/UserVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/mapper/DepartmentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/mapper/DepartmentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/mapper/UserDetailMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/mapper/UserDetailMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/service/IDepartmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/service/IUserDetailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/service/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/service/impl/DepartmentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/service/impl/UserDetailServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-hr/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/FastCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/ErpOrderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/controller/CustomersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/controller/OrderMainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/controller/OrderSubController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/entity/Customers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/entity/OrderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/entity/OrderSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/entity/ResultGetAllPaging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/entity/ResultSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/entity/dto/RequestModelOrderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/entity/vo/OrderMainAndSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/entity/vo/OrderMainAndSubVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/entity/vo/OrderMainVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/entity/vo/OrderSubVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/feignService/FeignCommodityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/feignService/FeignFinancialService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/feignService/FeignHrService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/feignService/FeignWarehouseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/feignService/dto/Commodity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/feignService/dto/Financial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/feignService/dto/StorageRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/feignService/dto/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/feignService/dto/Warehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/mapper/CustomersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/mapper/CustomersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/mapper/OrderMainMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/mapper/OrderMainMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/mapper/OrderSubMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/mapper/OrderSubMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/service/ICustomersService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/service/IOrderMainService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/service/IOrderSubService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/service/impl/CustomersServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/service/impl/OrderMainServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/service/impl/OrderSubServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-order/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/ErpProductionApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/config/MyIRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/config/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/controller/MaterialController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/controller/ProductionMainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/controller/ProductionSubController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/controller/PurchaseMainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/controller/PurchaseSubController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/Material.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/ProductionMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/ProductionSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/PurchaseMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/PurchaseSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/ResultGetAllPaging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/ResultSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/dto/RequestModelProductionMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/dto/RequestModelPurchaseMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/vo/ProductionMainAndSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/vo/ProductionMainAndSubVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/vo/ProductionMainVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/vo/ProductionSubVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/vo/PurchaseMainAndSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/vo/PurchaseMainAndSubVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/vo/PurchaseMainVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/entity/vo/PurchaseSubVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/feignService/FeignCommodityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/feignService/FeignFinancialService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/feignService/FeignHrService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/feignService/FeignWarehouseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/feignService/dto/Commodity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/feignService/dto/Financial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/feignService/dto/StorageRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/feignService/dto/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/feignService/dto/Warehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/mapper/MaterialMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/mapper/MaterialMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/mapper/ProductionMainMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/mapper/ProductionMainMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/mapper/ProductionSubMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/mapper/ProductionSubMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/mapper/PurchaseMainMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/mapper/PurchaseMainMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/mapper/PurchaseSubMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/mapper/PurchaseSubMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/service/IMaterialService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/service/IProductionMainService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/service/IProductionSubService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/service/IPurchaseMainService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/service/IPurchaseSubService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/service/impl/MaterialServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/service/impl/ProductionMainServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/service/impl/ProductionSubServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/service/impl/PurchaseMainServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/service/impl/PurchaseSubServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/utils/Common.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/utils/JsonXMLUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/test/java/pers/jd/controller/MaterialControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/test/java/pers/jd/controller/MaterialControllerTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/src/test/java/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/target/surefire-reports/TEST-pers.jd.controller.MaterialControllerTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-production/target/surefire-reports/pers.jd.controller.MaterialControllerTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/FastCodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/ErpWarehouseApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/controller/StorageRecordController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/controller/WarehouseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/entity/ResultGetAllPaging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/entity/ResultSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/entity/StorageRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/entity/Warehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/entity/vo/StorageRecordVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/feignService/FeignCommodityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/feignService/FeignFinancialService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/feignService/FeignHrService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/feignService/FeignMaterialService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/feignService/dto/Commodity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/feignService/dto/Financial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/feignService/dto/Material.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/feignService/dto/StorageRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/feignService/dto/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/feignService/dto/Warehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/mapper/StorageRecordMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/mapper/StorageRecordMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/mapper/WarehouseMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/mapper/WarehouseMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/service/IStorageRecordService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/service/IWarehouseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/service/impl/StorageRecordServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/service/impl/WarehouseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/utils/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp-warehouse/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/KillServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server/src/main/java/pers/jd/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server/src/main/java/pers/jd/EurekaServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-zuul/src/main/java/pers.jd/ZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-zuul/src/main/java/pers.jd/ZuulApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/erp-commodity/src/main/java/pers/jd/ErpCommodityApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/erp-commodity/src/main/java/pers/jd/ErpCommodityApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/ErpFinancialApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/erp-financial/src/main/java/pers/jd/ErpFinancialApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/ErpHrApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/erp-hr/src/main/java/pers/jd/ErpHrApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/ErpOrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/erp-order/src/main/java/pers/jd/ErpOrderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/ErpProductionApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/erp-production/src/main/java/pers/jd/ErpProductionApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/ErpWarehouseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/erp-warehouse/src/main/java/pers/jd/ErpWarehouseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,6 +68,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "false",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/jensen/Documents/毕业论文/毕业设计代码/MS_ERP",
@@ -532,8 +294,16 @@
       <workItem from="1650887199769" duration="989000" />
       <workItem from="1650899899137" duration="322000" />
       <workItem from="1651236592263" duration="2083000" />
-      <workItem from="1675980672126" duration="419000" />
+      <workItem from="1675980672126" duration="868000" />
     </task>
+    <task id="LOCAL-00001" summary=":tada: first edition">
+      <created>1675981093621</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675981093621</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
