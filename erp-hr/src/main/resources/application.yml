@@ -1,0 +1,20 @@
+eureka:
+  # eureka 客户端
+  client:
+    # 注册中心地址
+    serviceUrl:
+      defaultZone: http://localhost:8888/eureka/
+
+spring:
+  application:
+    # 表示到注册中心的应用名称
+    name: erp-hr
+  # 数据源
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://120.24.69.172:3306/erp_hr?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: root
+    password: mysql9527.
+    max-idle: 10
+    max-wait: 10000
+    min-idle: 5

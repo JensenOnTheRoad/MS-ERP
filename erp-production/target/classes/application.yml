@@ -1,0 +1,84 @@
+
+eureka:
+  # eureka 客户端
+  client:
+    # 注册中心地址
+    serviceUrl:
+      defaultZone: http://localhost:8888/eureka/
+spring:
+  application:
+    # 表示到注册中心的应用名称
+    name: erp-production
+  # 数据源
+  datasource:
+    # druid
+    type: com.alibaba.druid.pool.DruidDataSource
+    # 数据库驱动类型
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://120.24.69.172:3306/erp_production?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: root
+    password: mysql9527.
+#
+#    # druid 连接池的设置
+#    druid:
+#    # ddd
+#      web-stat-filter:
+#        enabled: false
+#
+#      # 初始化时建立物理连接的个数
+#      initial-size: 5
+#
+#      # 最小连接池数量
+#      min-idle: 5
+#
+#      # 最大连接池数量 maxIdle已经不再使用
+#      max-active: 20
+#
+#      #获取连接时最大等待时间，单位毫秒
+#      max-wait: 60000
+#
+#      #设置访问druid监控页的账号和密码,默认没有
+#      stat-view-servlet:
+#        login-username: admin
+#        login-password: 12345
+#
+#      #合并多个DruidDataSource的监控数据
+#      use-global-data-source-stat: true
+#
+#      # 配置扩展插件
+#      filters: stat,wall
+#
+#      # 申请连接的时候检测，
+#      # 如果空闲时间大于timeBetweenEvictionRunsMillis，
+#      # 执行validationQuery检测连接是否有效。
+#      test-while-idle: true
+#
+#      # 申请连接时会执行validationQuery检测连接是否有效,开启会降低性能,默认为true
+#      test-on-borrow: false
+#
+#      # 归还连接时会执行validationQuery检测连接是否有效,开启会降低性能,默认为true
+#      test-on-return: false
+#
+#      # 当数据库抛出不可恢复的异常时,抛弃该连接
+#      # exception-sorter: true
+#
+#      # 既作为检测的间隔时间又作为test-while-idle执行的依据
+#      time-between-eviction-runs-millis: 60000
+#
+#      # 销毁线程时检测当前连接的最后活动时间和当前时间差大于该值时，关闭当前连接
+#      min-evictable-idle-time-millis: 30000
+#
+#      # 用来检测连接是否有效的sql 必须是一个查询语句
+#      # mysql中为 select 'x'
+#      # oracle中为 select 1 from dual
+#      validation-query: select 'x'
+#
+#
+#      #是否缓存preparedStatement,mysql5.5+建议开启
+#      pool-prepared-statements: true
+#
+#      #当值大于0时poolPreparedStatements会自动修改为true
+#      max-pool-prepared-statement-per-connection-size: 20
+#
+#      # 通过connectProperties属性来打开mergeSql功能；慢SQL记录
+#      connection-properties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500

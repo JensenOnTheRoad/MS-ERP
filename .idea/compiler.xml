@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="erp-production" />
+        <module name="cloud-eureka-server" />
+        <module name="erp-commodity" />
+        <module name="cloud-zuul" />
+        <module name="test" />
+        <module name="erp-hr" />
+        <module name="erp-warehouse" />
+        <module name="erp-financial" />
+        <module name="erp-order" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="erp-logistics" target="8" />
+      <module name="erp-production-test" target="8" />
+      <module name="product" target="8" />
+      <module name="supply-chain" target="8" />
+      <module name="test" target="8" />
+      <module name="test-supplier-chain" target="8" />
+      <module name="test_client" target="8" />
+      <module name="test_web" target="8" />
+      <module name="web-service" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-eureka-server" options="-parameters" />
+      <module name="cloud-zuul" options="-parameters" />
+      <module name="erp-commodity" options="-parameters" />
+      <module name="erp-financial" options="-parameters" />
+      <module name="erp-hr" options="-parameters" />
+      <module name="erp-logistics" options="-parameters" />
+      <module name="erp-order" options="-parameters" />
+      <module name="erp-production" options="-parameters" />
+      <module name="erp-production-test" options="-parameters" />
+      <module name="erp-warehouse" options="-parameters" />
+      <module name="product" options="-parameters" />
+      <module name="supply-chain" options="-parameters" />
+      <module name="test" options="-parameters" />
+      <module name="test-supplier-chain" options="-parameters" />
+      <module name="test_client" options="-parameters" />
+      <module name="test_web" options="-parameters" />
+      <module name="web-service" options="-parameters" />
+    </option>
+  </component>
+</project>
