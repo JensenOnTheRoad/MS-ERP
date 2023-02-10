@@ -14,7 +14,7 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     # 数据库驱动类型
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://@mysql-url@/erp_order?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://@mysql-url@/erp_order?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
     username: @mysql-user@
     password: @mysql-password@
 
@@ -81,3 +81,5 @@ spring:
 
       # 通过connectProperties属性来打开mergeSql功能；慢SQL记录
       connection-properties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
+server:
+  port: @ms-port-order@

@@ -47,7 +47,7 @@
 
 
     <!--   微服务配置   -->
-    <ms-server-url>47.122.41.214</ms-server-url>
+    <ms-server-url>localhost</ms-server-url>
     <ms-port-eureka>8888</ms-port-eureka>
     <ms-port-zuul>8990</ms-port-zuul>
     <ms-port-hr>8991</ms-port-hr>
@@ -59,7 +59,7 @@
 
     <mysql-url>47.122.41.214:13306</mysql-url>
     <mysql-user>root</mysql-user>
-    <mysql-password>Toor1234</mysql-password>
+    <mysql-password>root</mysql-password>
 
 
   </properties>

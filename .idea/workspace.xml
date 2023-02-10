@@ -4,53 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a9494f1-5728-4d83-85c9-b0965853325e" name="Changes" comment=":tada: 启动类修改">
+    <list default="true" id="0a9494f1-5728-4d83-85c9-b0965853325e" name="Changes" comment=":bug: 配置文件修改">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-zuul/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-zuul/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-zuul/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-zuul/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-zuul/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-zuul/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-zuul/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-zuul/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-zuul/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-zuul/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-zuul/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-zuul/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-zuul/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-commodity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-commodity/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/erp-commodity/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-commodity/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-commodity/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-commodity/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-financial/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-financial/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/erp-financial/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-financial/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-financial/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-financial/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-hr/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-hr/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/erp-hr/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-hr/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-hr/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-hr/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-hr/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/erp-hr/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-hr/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/erp-hr/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-hr/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/erp-hr/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-hr/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/erp-hr/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-order/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/erp-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-order/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-order/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-order/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-production/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-production/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/erp-production/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-production/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-production/src/test/java/pers/jd/controller/MaterialControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/erp-production/src/test/java/pers/jd/controller/MaterialControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-production/src/test/java/pers/jd/controller/MaterialControllerTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/erp-production/src/test/java/pers/jd/controller/MaterialControllerTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-production/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-production/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-production/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/erp-production/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-production/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/erp-production/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-production/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/erp-production/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-production/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/erp-production/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-production/target/surefire-reports/TEST-pers.jd.controller.MaterialControllerTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-production/target/surefire-reports/pers.jd.controller.MaterialControllerTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-warehouse/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-warehouse/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/erp-warehouse/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-warehouse/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/erp-warehouse/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/erp-warehouse/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +136,7 @@
     </option>
     <option name="openRunningConfigInTab" value="true" />
   </component>
-  <component name="RunManager" selected="Spring Boot.ZuulApplication">
+  <component name="RunManager" selected="Spring Boot.ErpHrApplication">
     <configuration name="MaterialControllerTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="erp-production" />
       <extension name="coverage">
@@ -368,7 +330,7 @@
       <workItem from="1650899899137" duration="322000" />
       <workItem from="1651236592263" duration="2083000" />
       <workItem from="1675980672126" duration="8186000" />
-      <workItem from="1676028274955" duration="4139000" />
+      <workItem from="1676028274955" duration="7814000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: first edition">
       <created>1675981093621</created>
@@ -384,7 +346,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675981605512</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=":tada: 配置文件修改">
+      <created>1676039930661</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676039930662</updated>
+    </task>
+    <task id="LOCAL-00004" summary=":bug: 配置文件修改">
+      <created>1676045670456</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676045670456</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -584,7 +560,9 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value=":tada: first edition" />
     <MESSAGE value=":tada: 启动类修改" />
-    <option name="LAST_COMMIT_MESSAGE" value=":tada: 启动类修改" />
+    <MESSAGE value=":tada: 配置文件修改" />
+    <MESSAGE value=":bug: 配置文件修改" />
+    <option name="LAST_COMMIT_MESSAGE" value=":bug: 配置文件修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

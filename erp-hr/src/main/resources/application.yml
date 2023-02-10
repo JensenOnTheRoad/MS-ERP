@@ -12,9 +12,12 @@ spring:
   # 数据源
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://@mysql-url@/erp_hr?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://@mysql-url@/erp_hr?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
     username: @mysql-user@
     password: @mysql-password@
     max-idle: 10
     max-wait: 10000
     min-idle: 5
+
+server:
+  port: @ms-port-hr@
