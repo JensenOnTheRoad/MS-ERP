@@ -4,7 +4,7 @@ eureka:
   client:
     # 注册中心地址
     serviceUrl:
-      defaultZone: http://localhost:8888/eureka/
+      defaultZone: http://@ms-server-url@:@ms-port-eureka@/eureka/
 spring:
   application:
     # 表示到注册中心的应用名称
@@ -15,9 +15,9 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     # 数据库驱动类型
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://120.24.69.172:3306/erp_production?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
-    username: root
-    password: mysql9527.
+    url: jdbc:mysql://@mysql-url@/erp_production?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: @mysql-user@
+    password: @mysql-password@
 #
 #    # druid 连接池的设置
 #    druid:

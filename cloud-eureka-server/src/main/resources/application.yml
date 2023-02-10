@@ -1,7 +1,7 @@
 #
 eureka:
   instance:
-    hostname: localhost
+    hostname: @ms-server-url@
   client:
     # 表示是否注册到服务器。 因为它本身就是服务器，所以就无需把自己注册到服务器了。
     registerWithEureka: false
@@ -14,3 +14,5 @@ eureka:
 spring:
   application:
     name: eureka-server
+server:
+  port: @ms-port-eureka@

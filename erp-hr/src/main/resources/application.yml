@@ -3,7 +3,7 @@ eureka:
   client:
     # 注册中心地址
     serviceUrl:
-      defaultZone: http://localhost:8888/eureka/
+      defaultZone: http://@ms-server-url@:@ms-port-eureka@/eureka/
 
 spring:
   application:
@@ -12,9 +12,9 @@ spring:
   # 数据源
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://120.24.69.172:3306/erp_hr?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
-    username: root
-    password: mysql9527.
+    url: jdbc:mysql://@mysql-url@/erp_hr?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: @mysql-user@
+    password: @mysql-password@
     max-idle: 10
     max-wait: 10000
     min-idle: 5

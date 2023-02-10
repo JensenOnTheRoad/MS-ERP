@@ -22,8 +22,6 @@
     <module>erp-commodity</module>
     <module>erp-order</module>
     <module>erp-financial</module>
-
-
   </modules>
 
   <!-- 默认是jar, 修改为pom。 这样才可以作为父项目存在 -->
@@ -49,7 +47,7 @@
 
 
     <!--   微服务配置   -->
-    <ms-url-eureka>47.122.41.214</ms-url-eureka>
+    <ms-server-url>47.122.41.214</ms-server-url>
     <ms-port-eureka>8888</ms-port-eureka>
     <ms-port-zuul>8990</ms-port-zuul>
     <ms-port-hr>8991</ms-port-hr>
@@ -144,4 +142,12 @@
     </dependencies>
   </dependencyManagement>
 
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-maven-plugin</artifactId>
+      </plugin>
+    </plugins>
+  </build>
 </project>

@@ -1,7 +1,7 @@
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:8888/eureka/
+      defaultZone: http://47.122.41.214:8888/eureka/
 
 spring:
   application:
@@ -52,3 +52,5 @@ zuul:
     cloud-hr:
       path: /hr/**
       serviceId: ERP-HR
+server:
+  port: 8990
