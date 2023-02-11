@@ -53,9 +53,9 @@
     <ms-port-hr>8991</ms-port-hr>
     <ms-port-production>8992</ms-port-production>
     <ms-port-warehouse>8993</ms-port-warehouse>
+    <ms-port-order>8994</ms-port-order>
     <ms-port-commodity>8995</ms-port-commodity>
     <ms-port-financial>8996</ms-port-financial>
-    <ms-port-order>8994</ms-port-order>
 
     <mysql-url>47.122.41.214:13306</mysql-url>
     <mysql-user>root</mysql-user>
