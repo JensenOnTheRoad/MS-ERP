@@ -1,4 +1,25 @@
+## 模块
+
+```
+注册中心  --eureka 
+
+网关     --zuul
+
+财务管理 --financial
+
+订单管理 --order
+
+商品管理 --commodity
+
+物流管理 --logistics
+
+仓库管理 --warehouse
+
+生产采购 --production
+```
+
 ## 端口规划
+
 ```
 8888    eureka-server
 8990    zuul
@@ -11,23 +32,28 @@
 8996    erp-financial
 ```
 
-数据库 2022/3/20
-storage 添加两个字段
-    quantity 、 storage_type
+## Append
 
-production添加一个字段
-    quantity
+### 数据库 2022/3/20
 
-customer 
-    companyId字段从long改成String
-财务管理 --financial
-订单管理 --order
-商品管理 --commodity
-物流管理 --logistics
-仓库管理 --warehouse
-生产采购 --production 8991
+#### storage 
+添加两个字段
 
+```quantity 、 storage_type```
+
+#### production
+添加一个字段
+
+```quantity```
+
+#### customer
+companyId字段从long改成String
+
+```
 material,production_main,production_sub,purchase_main,purchase_sub,supply,supply_materails
+```
+
+## Reference
 
 微服务之间相互调用
 
